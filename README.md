@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Konrad 👋
+
+🚧🚧🚧🚧⛔🚧🚧🚧🚧 README is currently in progress 👷 🚧🚧🚧🚧⛔🚧🚧🚧🚧 👀
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konrad1203&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Konrad1203/konrad1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
